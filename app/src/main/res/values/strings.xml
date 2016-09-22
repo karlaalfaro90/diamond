@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GCMSample</string>
+    <string name="gcm_defaultSenderID">511537605674</string>
+</resources>
